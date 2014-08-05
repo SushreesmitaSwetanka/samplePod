@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
   s.name     = 'RSCrashAdapter'
   s.version  = '1.0.0'
-  s.platform = :ios, ‘6.0’
+  s.platform = :ios
   s.summary  = ‘Crash Reporting Tool’
   s.homepage = 'http://rsjs001:7990/scm/boot/rcrai.git'
   s.author   = { ‘Sushree Swetanka’ => ’s’ushree.swetanka@rishabhsoft.com }
